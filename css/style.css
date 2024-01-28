@@ -3,7 +3,9 @@
     padding: 0;
 }
 
-
+.buton{
+    display: flex;
+}
 .homepage{
     display: grid;
     background-color: white;
